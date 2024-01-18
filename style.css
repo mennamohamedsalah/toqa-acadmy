@@ -1,0 +1,2045 @@
+nav{
+    display: flex;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+        align-items: center;
+    background-color: #9e9e24;
+    position: fixed;
+}
+.ul1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin-left: 30%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;  
+    font-size: 20px;
+    font-weight: 500;
+}
+.dropdown-menu a {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+    font-size: 20px;
+    color: #222222;
+    font-weight: 500;
+}
+button{
+    background: none;
+}
+.btn1{
+    margin-left: 100%;
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    padding: 2px;
+    width: 150%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+    font-size: 20px;
+    font-weight: 600;
+}
+@media only screen and (min-width:300px) and (max-width:1000px){
+    .btn1   {
+        display: none;
+    }
+  }
+.btn2{
+    margin-left: 1%;
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    padding: 2px;
+    width: 200%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+    font-size: 20px;
+    font-weight: 600;
+}
+@media only screen and (min-width:300px) and (max-width:1000px){
+    .btn2   {
+        display: none;
+    }
+        }
+    .navbar   .container-fluid    button  span{
+        color: #000000;
+        background-color: #ffffff;
+    }
+ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 500;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+                  /* <!-- //home// --> */
+.container{
+    display: flex;
+    margin-top: 2%;
+}
+.img1{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+.h11{
+    color: #9e9e24;
+    margin-top: 30%;
+    text-align:end;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+     line-height: 55px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h11{
+        margin-top: 10%;
+        margin-right: 3%;
+    }
+  }
+.p1{
+    text-align:end;
+    margin-top: 3%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;  
+      line-height: 45px;
+}
+.btn3{
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding: 2px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+     font-size: 20px;
+    font-weight: 700;
+}
+.btn3:hover{
+    background-color: #9E9D24;
+    color: #ffffff;
+}
+.video{
+    margin-top: 30%;
+    border:4px solid #9E9D24;
+    border-radius: 15px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .video{
+    width: 100%;
+    margin-top: 10%;
+    }
+  }
+                    /* //buttonpage.html// */
+.image{
+    min-width: 115%;
+    max-width: 100%;
+    min-height: 80%;
+    max-height: 80%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .image{
+        min-width: 90%;
+        max-width: 90%;
+        min-height: 90%;
+        max-height: 90%;   
+     }
+  }
+.form1{
+    margin-top: 5%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    form{
+        width: 95%;
+     }
+  }
+.form-label{
+    font-size: 22px;
+    margin-left: 17%;
+    font-weight: 500;
+    margin-top: 1%;
+    color: #8f8f20;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+.form-label{
+    margin-left: 7%;
+     }
+  }
+.form-control{
+    margin-left: 15%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .form-control{
+        margin-left: 5%;
+    }
+      }
+.Submitform{
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    margin-top: 3%;
+    margin-left: 15%;
+    padding: 2px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;     
+      font-size: 20px;
+    font-weight: 700;
+}
+.Submitform:hover{
+    background-color: #9E9D24;
+    color: #ffffff;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .Submitform{
+        margin-left: 5%;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+      }
+                    /* //we// */
+.we{
+    margin-bottom: 10%;
+}
+.h22{
+    color: #9e9e24;
+    margin-top: 30%;
+    text-align:end;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+    line-height: 50px;
+    width: 100%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h22{
+        color: #9e9e24;
+        margin-top: 10%;
+        text-align:center;
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;        
+           line-height: 50px;
+        width: 100%;
+    }
+      }
+.p2{
+    text-align:end;
+    margin-top: 3%;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;     
+      line-height: 40px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .p2{
+        text-align:center;
+        margin-top: 3%;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;        
+        line-height: 40px;
+    }
+      }
+.we2{
+    background-color: #9e9e249f;
+}
+.number{
+    width: 80%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+svg{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.hh{
+    color: #ffffff;
+    text-align:end;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+       line-height: 50px;
+    margin-right: 46.5%;
+    margin-top: 2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .hh{
+        margin-left: 30%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+  }
+.hp{
+    color: #ffffff;
+    text-align:center;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 40px;
+    margin-left: 25%;
+    width: 45%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .hp{
+        width: 95%;
+        font-size: 20px;
+        margin-left: 2%;
+        text-align:end;
+    }
+  }
+.card-text{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+    font-size: 28px;
+    margin-top: 2%;
+    color: #9e9e24;
+    font-weight: 700;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card2{
+        margin-top: 2%;
+    }
+  }
+.card3{
+    margin-top: 2%;
+    padding-bottom: 10%;
+}
+.card4{
+    margin-top: 2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card4{
+        margin-top: -8%;
+    }
+  }
+.dddd{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .dddd{
+        margin-left: 20%;
+    }
+  }
+.hd{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 50px;
+    margin-top: 1%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .hd{
+        margin-left: 6%;
+        margin-top: 3%;
+    }
+  }
+
+.card5{
+    margin-top: 52%;
+}
+.dhc1{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 38px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card7{
+        margin-top: 5%;
+    }
+  }
+.card-text7{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+.dhc2{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 38px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+.card6{
+    margin-top: 5%;
+}
+.card7{
+    margin-top: 5%;
+}
+.card-text6{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+.card9{
+    margin-top: 5%;
+}
+.dhc3{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 38px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+.card-text9{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+.card8{
+    margin-top: 5%;
+}
+.dhc4{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 38px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+.card-text8{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+.card11{
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+.dhc11{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 40px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+.card-text11{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+.card10{
+    margin-top: 5%;
+}
+.dhc5{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 38px;
+    font-weight: 700;
+    text-align:end;
+    color: #9e9e24;
+}
+.card-text10{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 5%;
+    color: #222222;
+    font-weight: 600;
+}
+                /* <!-- //section3// --> */
+
+.gogle{
+    background-color: #9e9e24b9;
+    margin-top: 8%;
+}
+.h1t{
+    color: #ffffff;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-top: 5%;
+    margin-right: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h1t{
+        
+        font-size: 40px;
+    }
+  }
+.pgp{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 1%;
+    color: #222222;
+    font-weight: 600;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .pgp{
+        font-size: 22px;
+        width: 95%;
+    }
+  }
+.play{
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    margin-top: 1%;
+    margin-left: 22%;
+    padding: 20px;
+    padding-bottom: 3.5%;
+    width: 50%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 3%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .play{
+        width: 80%;
+    height: 65px;
+    padding: 20px;
+    padding-bottom: 5%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    }
+  }
+.ab2{
+    border: 1px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    margin-top: 2%;
+    margin-left: 18%;
+    padding: 2px;
+    width: 60%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    font-weight: 600;
+}
+.ab2:hover{
+    background-color: #9E9D24;
+    color: #ffffff;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .ab2{
+        width: 90%;
+        height: 50px;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+  }
+.img2{
+    width: 85%;
+    margin-top: 18%;
+    border: 5px #9e9e24 solid;
+    border-radius: 11%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .img2{
+        width: 100%;
+        margin-top: 10%;
+    }
+  }
+.h012{
+    color: #9e9e24;
+    margin-top: 30%;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 50px;
+    margin-left: 10%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h012{
+        margin-top: 12%;
+        margin-right: 6%;
+    }
+  }
+.p02{
+    text-align:center;
+    margin-top: 4%;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 45px;
+    width: 80%;
+    margin-left: 15%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .p02{
+        margin-top: 6%;
+        margin-left: 10%;
+    }
+  }
+.c22{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c22{
+        margin-left: 6%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .pnumbur{
+        margin-left: 11%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c22   p{
+        margin-bottom: -2%;
+    }
+  }
+.c11{
+    width: 90%;
+    margin-top: 5%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c11{
+        margin-left: 6%;
+        margin-top: 3%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c11  .pnumbur{
+        margin-left: 1%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c11   p{
+        margin-bottom: -2%;
+    }
+  }
+.c44{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.c44  .pnumbur{
+    margin-left: 5%;
+    margin-top: -12%;
+}
+.c44   svg{
+    width: 100%;
+    height: 150px;
+    margin-left: 10%;
+}
+.c44 p{
+    margin-left: 5%;
+    margin-top: -2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c44{
+        margin-left: 6%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c44  .pnumbur{
+        /* margin-left: 1%; */
+        margin-top: -10%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c44   svg{
+        width: 100%;
+        height: 150px;
+        margin-left: 12%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c11   p{
+        margin-bottom: -2%;
+    }
+  }
+.c33{
+    width: 90%;
+    margin-top: 3%;
+}
+.c33  .pnumbur{
+    margin-left: 5%;
+    margin-top: -12%;
+}
+.c33   svg{
+    width: 100%;
+    height: 150px;
+    margin-left: 10%;
+}
+.c33 p{
+    margin-left: 10%;
+    margin-top: -2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c33{
+        margin-left: 6%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c33  .pnumbur{
+        /* margin-left: 1%; */
+        margin-top: -12%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c33   svg{
+        width: 100%;
+        height: 150px;
+        margin-left: 12%;
+    }
+  }
+.c66{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.c66  .pnumbur{
+    margin-left: 10%;
+    margin-top: -12%;
+}
+.c66 p{
+    margin-left: 10%;
+    margin-top: -2%;
+}
+.c66   svg{
+    width: 100%;
+    height: 150px;
+    margin-left: 12%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c66{
+        margin-left: 6%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c66  .pnumbur{
+        margin-left: 5%;
+        margin-top: -15%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .c66   svg{
+        width: 100%;
+        height: 150px;
+        margin-left: 12%;
+    }
+  }
+.c55{
+    width: 90%;
+    margin-top: 3%;
+}
+.c55  .pnumbur{
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.c55 p{
+    margin-left: 10%;
+    margin-top: -2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .c55{
+        margin-left: 6%;
+    }
+  }
+.dct{
+    margin-top: 6%;
+    border:3px solid #9e9e24;
+    border-radius: 15px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: #9e9e2462;
+    margin-bottom: 8%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .dct{
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 10%;
+    }
+  }
+.h3t{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-top: 1%;
+    margin-right: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h3t{
+        font-size: 40px;
+    }
+  }
+.pc{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 22px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 600;
+}
+.pnumbur{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 30px;
+    margin-top: 2%;
+    color: #000000;
+    font-weight: 600;
+}
+.card222{
+    margin-top: 12%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card222  svg{
+        margin-left: 40%;
+    }
+  }
+.card111{
+    margin-top: 12%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card111{
+        margin-top: 2.5%;
+    }
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .card111  svg{
+        margin-left: 40%;
+    }
+  }
+.card444{ 
+    margin-top: 2%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card444  svg{
+        margin-left: 40%;
+    }
+  }
+.card333{
+    margin-top: 2%;
+    height: 200px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card333  svg{
+        margin-left: 40%;
+    }
+  }
+.card666{
+    margin-top: 2%;   
+    margin-bottom: 3%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card666{
+        margin-top: 8%;
+    }
+  }
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card666  svg{
+        margin-left: 40%;
+    }
+  }
+.card666 p{
+    padding-bottom: 2% ;
+}
+.card555{
+    margin-bottom: 3%;
+    margin-top: 2%;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card555{
+        margin-top: -0.5%;
+    }
+  }
+@media only screen and (min-width:300px) and (max-width:700px){
+    .card555  svg{
+        margin-left: 40%;
+    }
+  }
+.card333 p{
+    padding-bottom: 3.5% ;
+}
+.h11t{
+    color: #757519;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-top: 1%;
+    margin-right: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.pc1{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 600;
+}
+.abb{
+    border: 2px solid #9e9e24;
+    color: #9e9e24;
+    background-color: #ffffff;
+    margin-top: 2%;
+    margin-left: 18%;
+    padding: 2px;
+    width: 60%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 28px;
+    font-weight: 500;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .abb{
+        width: 100%;
+        margin-left: 1%;
+        height: 55px;
+    }
+  }
+              /* //اشتراك.html// */
+.svglogo{
+    margin-left: 25%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .svglogo{
+        margin-left: 15%;
+    }
+  }
+.img11{
+    min-width: 110%;
+    max-width: 100%;
+    min-height: 90%;
+    max-height: 100%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .img11{
+        min-width: 100%;
+        max-width: 90%;
+        min-height: 90%;
+        max-height: 90%;   
+        }
+  }
+.h011{
+    color: #9e9e24;
+    margin-top: 25%;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 50px;
+    margin-left: 10%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h011{
+        margin-top: 8%;
+        margin-left: 1%;
+    }
+  }
+.p01{
+    text-align:center;
+    margin-top: 3%;
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 45px;
+    width: 80%;
+    margin-left: 15%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .p01{
+        margin-left: 8%;
+    }
+  }
+.cardnew1{
+    margin-bottom: 15%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .cardnew1{
+        margin-top: 5%;
+    }
+  }
+.cardnew1 svg{
+    width: 100%;
+    height: 150px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.cardnew1  p{
+    font-size: 24px;
+    color: #000000c2;
+    margin-top: 5%;
+}
+.hnew1{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: -3%;
+}
+.cardnew2  svg{
+    width: 100%;
+    height: 150px;
+    margin-left: 2%;
+}
+.cardnew2  p{
+    font-size: 24px;
+    color: #000000c2;
+    margin-top: 5%;
+}
+.hnew2{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: -5%;
+}
+                     /* //who// */
+.who{
+    margin-bottom: 20%;
+}
+.who a {
+    text-align:end;
+    color: #9e9e24;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 22px;
+    font-weight: 600;
+}
+.who a:hover{
+    color: #9e9e24;
+    background-color: #ffffff;
+}
+.h5who{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-top: 2%;
+    margin-right: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.pwho{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 600;
+}
+                /* //التلاميذ// */
+.imgh{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    margin-top: 10%;
+}
+.h111{
+    color: #9e9e1b;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    padding-top: 35%;
+    margin-right: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.formh{
+    margin-top: 20%;
+}
+.ah{
+    margin-top: 5%;
+    margin-left: 35%;
+    color: #9e9e24;
+    text-decoration:underline;
+    font-size: 25px;
+    position: absolute;
+}
+.ah:hover{
+    color: #9E9D24;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .ah{
+        margin-left: 20%;
+        margin-top: 1%;
+        padding-bottom: 10%;
+    }
+  }
+.h1h1{
+    margin-left: 40%;
+    margin-top: 8%;
+    color: #9E9D24;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-weight: 700;
+}
+.p001{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .p001{
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                font-size: 22px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 500;
+     }
+  }
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h1h1{
+        margin-left: 16%;
+        margin-top: 12%;
+        color: #9E9D24;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                font-weight: 700;   
+     }
+  }
+.h101{
+    color: #9e9e24;
+    margin-top: 20%;
+    text-align:end;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h101{
+        color: #9e9e24;
+        margin-top: 10%;
+        text-align:center;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+         }
+  }
+.pp1{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .pp1{
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                font-size: 25px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 500;
+     }
+  }
+.h1t1{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        margin-top: 2%;
+}
+.card-textp{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.note{
+    margin-left: 33%;
+}
+.yout{
+    margin-left: 33%;
+}
+.divc{
+    width: 50%;
+    align-items: center;
+    margin-left: 24%;
+    margin-top: 9%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .divc {
+        width: 70%;
+        align-items: center;
+        margin-left: 15%;
+        margin-top: 9%;
+    }
+  }
+.divc h1 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .divc h1 {
+        color: #9e9e24;
+        text-align:center;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+         }
+  }
+.divc p {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+                           /* <!-- //cards3 3// --> */
+.cards3   .card {
+    padding:80px;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 90%;
+    height: 280px;
+}
+.cards3   .card   img {
+    width: 85%;
+    margin-left: 15%;
+    margin-top: -35%;
+}
+.cards3   .card   h5 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 15%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+} 
+@media only screen and (min-width:300px) and (max-width:700px){
+    .cards3   .card   img  {
+        width: 85%;
+        margin-left: 10%;
+        margin-top: -30%;
+         }
+  }
+                         /* <!-- //teach// --> */
+.teach{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.teach .card {
+    padding: 1%;
+}
+.teach .card  h5 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.teach .card  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .titleteach {
+    padding-bottom: 10%;
+    }
+        }
+.h1h11{
+    color: #ffffff;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        margin-top: 5%;
+    padding-top: 4%;
+    margin-right: 4%;
+}
+.titleteach{
+    margin-top: -10%;
+}
+.titleteach  h1 {
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        color: #ffffff;
+}
+.titleteach  p {
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+}
+.titleteach  a   button  {
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 22px;
+    font-weight: 500;
+}
+.teach1{
+    background-color: #9e9e249f;
+}
+.videos  .card {
+    padding:20px;
+    padding-top: 3%;
+    padding-bottom: 17%;
+    /* margin-left: 10%; */
+    margin-top: 2%;
+    width: 100%;
+    height: 200px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .videos  .card   {
+        padding:20px;
+        padding-top: 6%;
+        padding-bottom: 17%;
+        margin-left: 10%;
+        margin-top: 2%;
+        width: 85%;
+        height: 200px;  
+      }
+  }
+.videos  .card   video {
+    margin-top: -6%;
+}
+.qution{
+    margin-top: 8%;
+    margin-bottom: 5%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+        .qutioncard  .accordion {
+    background-color: #eeeeee69;
+    color: #9e9e24;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    font-weight: 600;
+    border: none;
+    text-align: end;
+    outline: none;
+    font-size: 28px;
+    transition: 0.4s;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+  }
+     .qutioncard    .active, .accordion:hover {
+    background-color: #9e9e249f;
+    color: #ffffff;
+  }
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        text-align: end;
+    font-size: 20px;
+  }
+                       /* //الاولياء// */
+.h0101{
+    margin-top: 25%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.h10111{
+    margin-top: 20%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .h10111 {
+        margin-top: 10%;
+        color: #9e9e24;
+        text-align:center;
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+      }
+    }
+  .h101112{
+    margin-top: 15%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+  }
+  @media only screen and (min-width:300px) and (max-width:700px){
+    .h101112 {
+        margin-top: 20%;
+        color: #9e9e24;
+        text-align:center;
+        font-size: 40px;
+        font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+  }
+    }
+.p01{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        text-align: end;
+    font-size: 24px;
+    text-align:center;
+}
+.h1h11{
+    margin-top: 8%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.h1t2{
+    margin-top: 8%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.imggh{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    margin-top: 15%;
+    border: 3px solid #9e9e24;
+    border-radius: 10%;
+}
+.h1011{
+    margin-top: 28%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.h1h101{
+    margin-top: 15%;
+    color: #9e9e24;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.card0222{
+    margin-top: 28%;
+}
+.card0222 p {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+    padding-bottom: 5%;
+}
+.card0222  h1 {
+    margin-top: 5%;
+}
+.card0111{
+    margin-top: 28%;
+}
+.card0111 p{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.cards31   .card   {
+    padding:80px;
+    margin-left: 5%;
+    margin-top: 2%;
+    width: 90%;
+    height: 280px;
+}
+.cards31   .card   img {
+    width: 85%;
+    margin-top: -35%;
+}
+.cards31   .card   h5 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -8%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+} 
+@media only screen and (min-width:300px) and (max-width:700px){
+    .cards31   .card   img  {
+        width: 85%;
+        margin-left: 10%;
+        margin-top: -30%;
+         }
+  }
+                       /* //المدارس والمعاهد// */
+.schoolc11  .pnumbur {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.schoolc11  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.schoolc11  svg {
+    margin-left: 40%;
+}
+.immgghh{
+    min-width: 90%;
+    max-width: 80%;
+    min-height: 80%;
+    max-height: 80%;
+    margin-top: 15%;
+    border: 3px solid #9e9e24;
+    border-radius: 10%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .immgghh {
+        min-width: 90%;
+        max-width: 80%;
+        min-height: 80%;
+        max-height: 80%;
+        margin-top: 15%;
+        border: 3px solid #9e9e24;
+        border-radius: 10%;
+        margin-left: 5%;
+    }
+}
+.schoolc22  .pnumbur {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.schoolc22  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.schoolc22  svg {
+    margin-left: 40%;
+}
+.schoolc33{
+    margin-top: 3%;
+}
+.schoolc33  .pnumbur {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.schoolc33  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.schoolc33  svg {
+    margin-left: 40%;
+}
+.schoolc44{
+    margin-top: 3%;
+}
+.schoolc44  .pnumbur {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.schoolc44  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.schoolc44  svg {
+    margin-left: 40%;
+}
+.imgghh{
+    min-width: 90%;
+    max-width: 90%;
+    min-height: 50%;
+    max-height: 80%;
+    margin-top: 25%;
+    border: 3px solid #9e9e24;
+    border-radius: 10%;
+}
+.schoolh{
+    margin-top: -10%;
+}
+.row2{
+    margin-top: 30%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row2   .h1011  {
+        margin-top: -135%;
+        position: absolute;
+        margin-left: 20%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row2   .pp1  {
+    margin-top: -122%;
+    position: absolute;
+    margin-left: 5%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row2   .imggh  {
+        margin-top: 50%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row2   a  button  {
+    margin-top: -100%;
+    position: absolute;
+    width: 90%;
+    }
+}
+.row2  h1{
+    margin-top: 50%;
+}
+.row3{
+    margin-top: 10%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row3   .h1011  {
+        margin-top: -30%;
+        position: absolute;
+        margin-left: 10%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row3   .pp1  {
+    margin-top: -15%;
+    position: absolute;
+    margin-left: 5%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row3   .imggh  {
+        margin-top: 20%;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .row3   a  button  {
+    margin-top: 5%;
+    position: absolute;
+    width: 90%;
+    }
+}
+                    /* //اساتذتنا// */
+.imgg1hh{
+    min-width: 95%;
+    max-width: 95%;
+    min-height: 80%;
+    max-height: 80%;
+    margin-top: 20%;
+    border: 3px solid #9e9e24;
+    border-radius: 10%;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .imgg1hh {
+        margin-left: 5%;
+    }
+  }
+.hh11{
+    color: #9e9e24;
+    margin-top: 30%;
+    text-align:end;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 55px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .hh11 {
+        color: #9e9e24;
+        margin-top: 20%;
+        text-align:center;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                line-height: 55px;   
+            }
+  }
+.p11{
+    text-align:end;
+    margin-top: 2%;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        line-height: 45px;
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .p11 {
+        text-align:end;
+        margin-top: 3%;
+        font-size: 21px;
+        font-weight: 500;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                line-height: 45px; 
+     }
+  }
+  .teach11   .card  h5{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.teach11 .card  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.teach101   .card  h5{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.teach101 .card  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+    padding-bottom: 10%;
+}
+.teach1   .card  h5{
+    color: #9e9e24;
+    text-align:center;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.teach1 .card  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+.teach{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.teach .card {
+    padding: 1%;
+}
+.teach .card  h5 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+
+.teach .card  .card-text {
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 25px;
+    margin-top: 2%;
+    color: #222222;
+    font-weight: 500;
+}
+
+
+                           /* //محتوانا// */
+
+.Facebook{
+    border: 2px solid #0866ff;
+    color: #0866ff;
+    background-color: #ffffff;
+    margin-top: 25%;
+    padding: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Facebook:hover{
+    background-color: #0866ff;
+    color: #ffffff;
+}
+
+.YouTube{
+    border: 2px solid #c00;
+    color: #c00;
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 18px;
+    font-weight: 500;
+}
+.YouTube:hover{
+    background-color: #c00;
+    color: #ffffff;
+}
+
+.instagram{
+    border: 2px solid #8a185d;
+    color: #8a185d;
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 18px;
+    font-weight: 500;
+}
+.instagram:hover{
+    background-color: #8a185d;
+    color: #ffffff;
+}
+
+.TikTok{
+    border: 2px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 18px;
+    font-weight: 500;
+}
+.TikTok:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.linkedin{
+    border: 2px solid #0a66c2;
+    color: #0a66c2;
+    background-color: #ffffff;
+    margin-top: 2%;
+    padding: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 59px;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 18px;
+    font-weight: 500;
+}
+.linkedin:hover{
+    background-color: #0a66c2;
+    color: #ffffff;
+}
+
+
+                    /* //العروض// */
+
+.h0o11{
+    color: #9e9e24;
+    text-align:center;
+    margin-top: 20%;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+.p0o1{
+    text-align:center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        font-size: 20px;
+    margin-top: 3%;
+    color: #222222;
+    font-weight: 600;
+}
+
+.fi{
+    margin-top: 15%;
+}
+
+
+
+
+
+
+
+
+
+
