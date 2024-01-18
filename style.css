@@ -145,6 +145,17 @@ ul li a:hover{
     margin-top: 10%;
     }
   }
+
+  @media only screen and (min-width:700px) and (max-width:1100px){
+    .video{
+        margin-top: 60%;
+        border:4px solid #9E9D24;
+        border-radius: 15px;
+    }
+    
+}
+
+
                     /* //buttonpage.html// */
 .image{
     min-width: 115%;
@@ -160,6 +171,18 @@ ul li a:hover{
         max-height: 90%;   
      }
   }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .image{
+        min-width: 90%;
+        max-width: 90%;
+        min-height: 80%;
+        max-height: 80%;   
+     }
+  }
+
+
 .form1{
     margin-top: 5%;
 }
@@ -168,6 +191,12 @@ ul li a:hover{
         width: 95%;
      }
   }
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    form{
+        width: 95%;
+     }
+  }
+
 .form-label{
     font-size: 22px;
     margin-left: 17%;
@@ -218,6 +247,16 @@ ul li a:hover{
 .we{
     margin-bottom: 10%;
 }
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .we{
+        margin-top: -5%;
+    }
+  }
+
+
+
+
 .h22{
     color: #9e9e24;
     margin-top: 30%;
@@ -242,6 +281,25 @@ ul li a:hover{
         width: 100%;
     }
       }
+
+
+      @media only screen and (min-width:701px) and (max-width:1100px){
+.h22{
+    color: #9e9e24;
+    margin-top: 30%;
+    text-align:end;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;    
+    line-height: 50px;
+    width: 100%;
+}
+      }
+
+
+
+
 .p2{
     text-align:end;
     margin-top: 3%;
@@ -292,6 +350,23 @@ svg{
         margin-bottom: 5%;
     }
   }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .hh{
+        color: #ffffff;
+        text-align:end;
+        font-size: 70px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;    
+           line-height: 50px;
+        margin-right: 38%;
+        margin-top: 2%;
+    }
+          }
+
+
+
 .hp{
     color: #ffffff;
     text-align:center;
@@ -311,6 +386,24 @@ svg{
         text-align:end;
     }
   }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .hp{
+        color: #ffffff;
+        text-align:center;
+        font-size: 22px;
+        font-weight: 600;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            line-height: 40px;
+        margin-left: 25%;
+        width: 45%;
+    }
+          }
+
+
+
 .card-text{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -329,6 +422,8 @@ svg{
     margin-top: 2%;
     padding-bottom: 10%;
 }
+
+
 .card4{
     margin-top: 2%;
 }
@@ -362,6 +457,23 @@ svg{
         margin-top: 3%;
     }
   }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .hd{
+        margin-left: 6%;
+        margin-top: 3%;
+    }
+          }
+
+
+
+
+          @media only screen and (min-width:701px) and (max-width:1100px){
+            .we3  .wediv3  svg     {
+                margin-left: 35%;
+            }
+                  }
+
 
 .card5{
     margin-top: 52%;
@@ -557,6 +669,15 @@ svg{
     margin-left: 10%;
     }
   }
+  @media only screen and (min-width:700px) and (max-width:1100px){
+    .play{
+        padding-bottom: 5%;
+    }
+    
+}
+
+
+
 .ab2{
     border: 1px solid #9e9e24;
     color: #9e9e24;
@@ -596,6 +717,19 @@ svg{
         margin-top: 10%;
     }
   }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .img2{
+        width: 85%;
+        margin-top: 30%;
+        border: 5px #9e9e24 solid;
+        border-radius: 11%;
+    }
+  }
+
+
+
 .h012{
     color: #9e9e24;
     margin-top: 30%;
@@ -613,6 +747,20 @@ svg{
         margin-right: 6%;
     }
   }
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .h012{
+        color: #9e9e24;
+        margin-top: 30%;
+        text-align:center;
+        font-size: 45px;
+        font-weight: 600;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            line-height: 50px;
+        margin-left: 10%;  
+      }
+    
+}
 .p02{
     text-align:center;
     margin-top: 4%;
@@ -640,6 +788,13 @@ svg{
         margin-left: 6%;
     }
   }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .c22  svg{
+        margin-left: 40%;
+    }
+  }
+
   @media only screen and (min-width:300px) and (max-width:700px){
     .pnumbur{
         margin-left: 11%;
@@ -755,6 +910,16 @@ svg{
     margin-left: 10%;
     margin-top: -12%;
 }
+
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .c66  .pnumbur{
+        margin-left: 5%;
+        margin-top: -22%;
+    }
+  }
+
+
 .c66 p{
     margin-left: 10%;
     margin-top: -2%;
@@ -857,6 +1022,11 @@ svg{
         margin-left: 40%;
     }
   }
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card222  svg{
+        margin-left: 35%;
+    }
+  }
 .card111{
     margin-top: 12%;
 }
@@ -870,6 +1040,12 @@ svg{
         margin-left: 40%;
     }
   }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card111  svg{
+        margin-left: 35%;
+    }
+  }
 .card444{ 
     margin-top: 2%;
 }
@@ -878,15 +1054,51 @@ svg{
         margin-left: 40%;
     }
   }
+
+
+  
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card444  svg{
+        margin-left: 35%;
+    }
+  }
 .card333{
     margin-top: 2%;
     height: 200px;
 }
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .card333 {
+        margin-top: 5%;
+    }
+  }
+
 @media only screen and (min-width:300px) and (max-width:700px){
     .card333  svg{
         margin-left: 40%;
     }
   }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card333  svg{
+        margin-left: 35%;
+    }
+  }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card333  svg{
+        margin-left: 35%;
+    }
+  }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card333  .card-text{
+        padding-bottom: 10%;
+        margin-top: 1%;
+    }
+  }
+
 .card666{
     margin-top: 2%;   
     margin-bottom: 3%;
@@ -901,6 +1113,11 @@ svg{
         margin-left: 40%;
     }
   }
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .card666  svg{
+        margin-left: 35%;
+    }
+  }
 .card666 p{
     padding-bottom: 2% ;
 }
@@ -913,11 +1130,15 @@ svg{
         margin-top: -0.5%;
     }
   }
-@media only screen and (min-width:300px) and (max-width:700px){
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
     .card555  svg{
-        margin-left: 40%;
+        margin-left: 35%;
     }
   }
+
+
 .card333 p{
     padding-bottom: 3.5% ;
 }
@@ -1117,6 +1338,21 @@ svg{
     font-family: 'Almarai', sans-serif;
     font-family: 'Tajawal', sans-serif;   
 }
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .h111 {
+        color: #9e9e1b;
+        text-align:center;
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 50px;
+        padding-top: 20%;
+        margin-right: 2%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+         }
+  }
+
 .formh{
     margin-top: 20%;
 }
@@ -1146,6 +1382,31 @@ svg{
     font-family: 'Tajawal', sans-serif;   
         font-weight: 700;
 }
+
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .h1h1 {
+        margin-left: 30%;
+        margin-top: 8%;
+        color: #9E9D24;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-weight: 700;
+         }
+  }
+
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .cards3 {
+margin-right: 10%;
+         }
+  }
+
+
+
+
+
 .p001{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1196,6 +1457,22 @@ svg{
         font-family: 'Tajawal', sans-serif;   
          }
   }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .h101 {
+        color: #9e9e24;
+        margin-top: 20%;
+        text-align:end;
+        font-size: 30px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif; 
+         }
+  }
+
+
+
 .pp1{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1216,7 +1493,24 @@ svg{
         font-weight: 500;
      }
   }
-.h1t1{
+
+
+.cardt111{
+    margin-top: 12%;
+}
+
+.cardt222{
+    margin-top: 12.5%;
+
+}
+
+
+
+
+
+
+
+.h1tt1{
     color: #9e9e24;
     text-align:center;
     font-size: 35px;
@@ -1225,6 +1519,68 @@ svg{
     font-family: 'Tajawal', sans-serif;   
         margin-top: 2%;
 }
+.h1tt11 {
+    color: #9e9e24;
+    text-align:center;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+        margin-top: 2%;
+}
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .h1tt11{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 30px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            margin-top: 2%;
+     }
+  }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .cardt111{
+        margin-top: 15%;
+    }
+  }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .cardt111 p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+  }
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .cardt222{
+        margin-top: 15%;
+    }
+    .cardt222 p {
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 5%;
+    }
+  }
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .h1tt1{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            margin-top: 2%;
+    }
+  }
+
+
+
+
 .card-textp{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1289,11 +1645,35 @@ svg{
     width: 90%;
     height: 280px;
 }
+
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .cards3   .card {
+        padding:20px;
+        margin-left: 10%;
+        /* margin-top: 5%; */
+        width: 90%;
+        height: 280px;
+    }
+    
+}
+
+
+
 .cards3   .card   img {
     width: 85%;
     margin-left: 15%;
     margin-top: -35%;
 }
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .cards3   .card   img  {
+        width: 85%;
+        margin-left: 10%;
+        margin-top: -5%;
+         }
+  }
+
 .cards3   .card   h5 {
     color: #9e9e24;
     text-align:center;
@@ -1303,13 +1683,34 @@ svg{
     font-family: 'Almarai', sans-serif;
     font-family: 'Tajawal', sans-serif;   
 } 
-@media only screen and (min-width:300px) and (max-width:700px){
-    .cards3   .card   img  {
-        width: 85%;
-        margin-left: 10%;
-        margin-top: -30%;
-         }
-  }
+
+
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .cards3   .card   h5 {
+        color: #9e9e24;
+        text-align:center;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 15%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    } 
+}
+
+  @media only screen and  (min-width:1101px){
+    .cards3   .card   h5 {
+        color: #9e9e24;
+        text-align:center;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 15%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    } 
+}
+
+
                          /* <!-- //teach// --> */
 .teach{
     margin-top: 5%;
@@ -1382,6 +1783,20 @@ svg{
     width: 100%;
     height: 200px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (min-width:300px) and (max-width:700px){
     .videos  .card   {
         padding:20px;
@@ -1393,9 +1808,39 @@ svg{
         height: 200px;  
       }
   }
+
+
+  @media only screen and (min-width:700px) and (max-width:1100px){
+    .videos  .card {
+        padding:20px;
+        padding-top: 3%;
+        padding-bottom: 17%;
+        /* margin-left: 10%; */
+        margin-top: 2%;
+        width: 100%;
+        height: 100px;
+    }
+    
+}
+
+
+
+
+
 .videos  .card   video {
     margin-top: -6%;
 }
+
+
+
+
+
+
+
+
+
+
+
 .qution{
     margin-top: 8%;
     margin-bottom: 5%;
@@ -1541,6 +1986,10 @@ svg{
 .card0222{
     margin-top: 28%;
 }
+
+
+
+
 .card0222 p {
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1557,6 +2006,22 @@ svg{
 .card0111{
     margin-top: 28%;
 }
+
+
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .card0111{
+        margin-top: 26%;
+    }
+    .card0111 p {
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 5%;
+    }
+  }
+
+
+
 .card0111 p{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1593,6 +2058,55 @@ svg{
         margin-top: -30%;
          }
   }
+
+
+
+
+  @media only screen and (min-width:701px) and (max-width:1100px){
+    .cards31   .card  {
+        padding:20px;
+        margin-left: 3%;
+        /* margin-top: 5%; */
+        width: 90%;
+        height: 280px;
+    }
+    
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .cards31   .card   img {
+        width: 85%;
+        margin-left: 10%;
+        margin-top: -5%;
+         }
+  }
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .cards31   .card   h5  {
+        color: #9e9e24;
+        text-align:center;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 15%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    } 
+}
+
+  @media only screen and  (min-width:1101px){
+    .cards31   .card   h5  {
+        color: #9e9e24;
+        text-align:center;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 15%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    } 
+}
+
+
+  
                        /* //المدارس والمعاهد// */
 .schoolc11  .pnumbur {
     color: #9e9e24;
@@ -1718,16 +2232,16 @@ svg{
 }
 @media only screen and (min-width:300px) and (max-width:700px){
     .row2   .h1011  {
-        margin-top: -135%;
+        margin-top: -140%;
         position: absolute;
-        margin-left: 20%;
+        margin-left: 15%;
     }
 }
 @media only screen and (min-width:300px) and (max-width:700px){
     .row2   .pp1  {
-    margin-top: -122%;
+    margin-top: -128%;
     position: absolute;
-    margin-left: 5%;
+    margin-left: 2%;
     }
 }
 @media only screen and (min-width:300px) and (max-width:700px){
@@ -1750,14 +2264,14 @@ svg{
 }
 @media only screen and (min-width:300px) and (max-width:700px){
     .row3   .h1011  {
-        margin-top: -30%;
+        margin-top: -35%;
         position: absolute;
-        margin-left: 10%;
+        margin-left: 4%;
     }
 }
 @media only screen and (min-width:300px) and (max-width:700px){
     .row3   .pp1  {
-    margin-top: -15%;
+    margin-top: -13%;
     position: absolute;
     margin-left: 5%;
     }
@@ -1769,7 +2283,8 @@ svg{
 }
 @media only screen and (min-width:300px) and (max-width:700px){
     .row3   a  button  {
-    margin-top: 5%;
+    margin-top: 15%;
+    margin-left: 4%;
     position: absolute;
     width: 90%;
     }
@@ -1789,6 +2304,18 @@ svg{
         margin-left: 5%;
     }
   }
+
+  @media only screen and (min-width:700px) and (max-width:1100px){
+    .imgg1hh {
+        margin-left: 5%; 
+        margin-top: 10%;  
+    } 
+}
+
+
+
+
+
 .hh11{
     color: #9e9e24;
     margin-top: 30%;
@@ -1811,6 +2338,22 @@ svg{
                 line-height: 55px;   
             }
   }
+
+  @media only screen and (min-width:700px) and (max-width:1100px){
+    .hh11 {
+        color: #9e9e24;
+        margin-top: 10%;
+        text-align:center;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+                line-height: 55px;  
+    } 
+}
+
+
+
 .p11{
     text-align:end;
     margin-top: 2%;
@@ -1839,6 +2382,21 @@ svg{
     font-family: 'Almarai', sans-serif;
     font-family: 'Tajawal', sans-serif;   
 }
+
+
+
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach11   .card  h5{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    }
+}
+
 .teach11 .card  .card-text {
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1848,6 +2406,34 @@ svg{
     color: #222222;
     font-weight: 500;
 }
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach11 .card  .card-text {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 20px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach11 .card  .card-text    .text-muted   {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+
+
+
+
+
 .teach101   .card  h5{
     color: #9e9e24;
     text-align:center;
@@ -1856,6 +2442,21 @@ svg{
     font-family: 'Almarai', sans-serif;
     font-family: 'Tajawal', sans-serif;   
 }
+
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach101   .card  h5{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    }
+}
+
+
+
 .teach101 .card  .card-text {
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1866,6 +2467,35 @@ svg{
     font-weight: 500;
     padding-bottom: 10%;
 }
+
+
+
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach101 .card  .card-text {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 20px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach101 .card  .card-text    .text-muted   {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+
+
+
 .teach1   .card  h5{
     color: #9e9e24;
     text-align:center;
@@ -1883,32 +2513,89 @@ svg{
     color: #222222;
     font-weight: 500;
 }
-.teach{
-    margin-top: 5%;
-    margin-bottom: 10%;
-}
-.teach .card {
-    padding: 1%;
-}
-.teach .card  h5 {
-    color: #9e9e24;
-    text-align:center;
-    font-size: 28px;
-    font-weight: 600;
-    font-family: 'Almarai', sans-serif;
-    font-family: 'Tajawal', sans-serif;   
+
+
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach1   .card  h5{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 18px;
+        font-weight: 800;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    }
 }
 
 
-.teach .card  .card-text {
-    text-align:center;
-    font-family: 'Almarai', sans-serif;
-    font-family: 'Tajawal', sans-serif;   
-        font-size: 25px;
-    margin-top: 2%;
-    color: #222222;
-    font-weight: 500;
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach1 .card  .card-text {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 16px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 600;
+    }
 }
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach1 .card  .card-text    .text-muted   {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach   .card  h5{
+        color: #9e9e24;
+        text-align:center;
+        font-size: 18px;
+        font-weight: 800;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach .card  .card-text {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 16px;
+        margin-top: 2%;
+        color: #222222;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .teach .card  .card-text    .text-muted   {
+        text-align:center;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;   
+            font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1100px){
+    .titleteach a  button  {
+margin-bottom: 10%;
+    }
+}
+
+
+
+
+
+
+
 
 
                            /* //محتوانا// */
@@ -2020,6 +2707,20 @@ svg{
     font-family: 'Tajawal', sans-serif;   
 }
 
+
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .h0o11{
+        color: #9e9e24;
+        text-align:center;
+        margin-top: 20%;
+        font-size: 38px;
+        font-weight: 800;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;       }
+          }
+
+
+
 .p0o1{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -2034,9 +2735,11 @@ svg{
     margin-top: 15%;
 }
 
-
-
-
+@media only screen and (min-width:701px) and (max-width:1100px){
+    .fi{
+        margin-top: 40%;
+    }
+          }
 
 
 
