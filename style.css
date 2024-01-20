@@ -17,6 +17,21 @@ nav{
     font-size: 20px;
     font-weight: 500;
 }
+
+@media only screen and (min-width:300px) and (max-width:1000px){
+    .ul1   {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 50%;
+        margin-left: 30%;
+        font-family: 'Almarai', sans-serif;
+        font-family: 'Tajawal', sans-serif;  
+        font-size: 22px;
+        font-weight: 500;   
+     }
+  }
+
 .dropdown-menu a {
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -297,9 +312,6 @@ ul li a:hover{
 }
       }
 
-
-
-
 .p2{
     text-align:end;
     margin-top: 3%;
@@ -401,9 +413,6 @@ svg{
         width: 45%;
     }
           }
-
-
-
 .card-text{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -422,7 +431,6 @@ svg{
     margin-top: 2%;
     padding-bottom: 10%;
 }
-
 
 .card4{
     margin-top: 2%;
@@ -464,9 +472,6 @@ svg{
         margin-top: 3%;
     }
           }
-
-
-
 
           @media only screen and (min-width:701px) and (max-width:1100px){
             .we3  .wediv3  svg     {
@@ -676,8 +681,6 @@ svg{
     
 }
 
-
-
 .ab2{
     border: 1px solid #9e9e24;
     color: #9e9e24;
@@ -727,8 +730,6 @@ svg{
         border-radius: 11%;
     }
   }
-
-
 
 .h012{
     color: #9e9e24;
@@ -911,14 +912,12 @@ svg{
     margin-top: -12%;
 }
 
-
 @media only screen and (min-width:701px) and (max-width:1100px){
     .c66  .pnumbur{
         margin-left: 5%;
         margin-top: -22%;
     }
   }
-
 
 .c66 p{
     margin-left: 10%;
@@ -1054,8 +1053,6 @@ svg{
         margin-left: 40%;
     }
   }
-
-
   
   @media only screen and (min-width:701px) and (max-width:1100px){
     .card444  svg{
@@ -1084,7 +1081,6 @@ svg{
         margin-left: 35%;
     }
   }
-
 
   @media only screen and (min-width:701px) and (max-width:1100px){
     .card333  svg{
@@ -1137,7 +1133,6 @@ svg{
         margin-left: 35%;
     }
   }
-
 
 .card333 p{
     padding-bottom: 3.5% ;
@@ -1383,7 +1378,6 @@ svg{
         font-weight: 700;
 }
 
-
 @media only screen and (min-width:701px) and (max-width:1100px){
     .h1h1 {
         margin-left: 30%;
@@ -1395,17 +1389,11 @@ svg{
          }
   }
 
-
-
   @media only screen and (min-width:701px) and (max-width:1100px){
     .cards3 {
 margin-right: 10%;
          }
   }
-
-
-
-
 
 .p001{
     text-align:center;
@@ -1429,7 +1417,7 @@ margin-right: 10%;
   }
 @media only screen and (min-width:300px) and (max-width:700px){
     .h1h1{
-        margin-left: 16%;
+        margin-left: 10%;
         margin-top: 12%;
         color: #9E9D24;
         font-family: 'Almarai', sans-serif;
@@ -1471,8 +1459,6 @@ margin-right: 10%;
          }
   }
 
-
-
 .pp1{
     text-align:center;
     font-family: 'Almarai', sans-serif;
@@ -1494,21 +1480,19 @@ margin-right: 10%;
      }
   }
 
-
 .cardt111{
     margin-top: 12%;
 }
 
+@media only screen and (min-width:300px) and (max-width:700px){
+    .cardt111  svg {
+        margin-left: 30%;
+    }
+  }
+
 .cardt222{
     margin-top: 12.5%;
-
 }
-
-
-
-
-
-
 
 .h1tt1{
     color: #9e9e24;
@@ -1645,6 +1629,14 @@ margin-right: 10%;
     width: 90%;
     height: 280px;
 }
+
+
+
+@media only screen and (min-width:300px) and (max-width:700px){
+    .cards3 {
+        margin-left: -5%;
+    }
+  }
 
 
 @media only screen and (min-width:701px) and (max-width:1100px){
@@ -2740,6 +2732,141 @@ margin-bottom: 10%;
         margin-top: 40%;
     }
           }
+
+
+          /* <!-- Footer --> */
+.about{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+        footer p .nav-link1{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+footer p .nav-link2{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+.fab{
+    font-size: 25px;
+    color: #949419;
+}
+
+.dropdown-item1{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+.dropdown-item1:hover{
+color: #9E9D24;
+text-decoration: none;
+}
+
+.dropdown-item2{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+.dropdown-item2:hover{
+    color: #9E9D24;
+    text-decoration: none;
+    }
+    
+
+.dropdown-item3{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+
+.dropdown-item3:hover{
+    color: #9E9D24;
+    text-decoration: none;
+    }
+    
+
+.nav-link41{
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif;   
+}
+.nav-link41:hover{
+    color: #9E9D24;
+    text-decoration: none;
+    }
+.nav-link52 {
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif; 
+}
+
+.nav-link52:hover{
+    color: #9E9D24;
+    text-decoration: none;
+    }
+    
+.nav-link63 {
+    text-decoration: none;
+    color: #9e9e24;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif; 
+}
+.nav-link63:hover{
+    color: #9E9D24;
+    text-decoration: none;
+    }
+    
+
+
+.toqa{
+    text-decoration: none;
+    text-align:center;
+    color: #9e9e24;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Tajawal', sans-serif; 
+}
+
+
+
+
+
+
+
+
 
 
 
